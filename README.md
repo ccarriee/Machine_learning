@@ -11,4 +11,3 @@ Le repertoire est composé du sujet, du rapport de notre projet et des trois fic
 - un fichier pour les algorithmes de régression. 
 - un fichier pour la partie interface. 
 
-L'appl
